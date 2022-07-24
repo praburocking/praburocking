@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praburocking
 - 👀 I’m interested in Machine Learning and backend design
-- 🌱 I’m currently learning Machine Learning and audio processing
+- 🌱 I’m currently working on Machine Learning and audio processing
 - 💞️ I’m looking to collaborate on machine learning in audio processing
 
 <!---
